@@ -8,14 +8,14 @@ body
 	height: 100vh;
 }
 
-#left
+.left
 {
 	width: 500px;
 	margin-top: 70px;
 	display: inline-block;
 }
 
-#left img
+.left img
 {
 	width:400px;
 }
